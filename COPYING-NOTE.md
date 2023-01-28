@@ -1,6 +1,7 @@
 [`COPYING`](https://github.com/EliahKagan)
 ([CC0](https://creativecommons.org/publicdomain/zero/1.0/)) applies to
-[the README itself](README.md).
+[the README itself](README.md), and other content of
+[*this* repository](https://github.com/EliahKagan/EliahKagan).
 
 The individual repositories accessible from my profile and/or owned by my
 GitHub account are licensed under their own licenses, some but not all of which
